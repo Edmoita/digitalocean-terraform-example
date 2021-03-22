@@ -1,0 +1,5 @@
+# DigitalOcean Personal Access Token
+do_token = "token"
+
+# Public SSH Key
+pub_key = "path/to/my_key.pub"
